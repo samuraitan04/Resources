@@ -1,7 +1,4 @@
-# THIS IS SKIBIDI
-
-<h1 align="center">Hello 👋, We are e-Designing and Marketing </h1>
-<h3 align="center">Technical Community of Hyderabad</h3>
+# THIS IS SAM
 
 ## <h3> 💯 #100DaysOfTechnology </h3>
 <p> This is an intitiation which is for freshers and any person who wishes to learn any technology with a roadmap, resources, practical experience, and guidence/mentorship. </p>
